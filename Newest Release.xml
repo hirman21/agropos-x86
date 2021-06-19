@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LatestVersionInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ReleaseVersion>2.0.0.0</ReleaseVersion>
-  <Description>New Release Agropos 2.0.0.0</Description>
+  <ReleaseVersion>2.0.0.1</ReleaseVersion>
+  <Description>New Release Agropos 2.0.0.1</Description>
   <ReleaseDate>2021-06-12T13:29:25.8117409+08:00</ReleaseDate>
   <RequireVersion>1.0.0.0</RequireVersion>
 </LatestVersionInfo>
